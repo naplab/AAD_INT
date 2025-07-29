@@ -8,6 +8,11 @@ This repository contains code for reproducing the figures in our study "Neural s
 - `DataShared_*.mat` — Supporting data files required to reproduce figures.
 - `README.md` — This documentation file.
 
+## 📁 Raw Data Availability
+Each subject’s segmented EEG data (anonymized), trial-level condition labels (e.g., SNR, SI, rT, rM…), and the corresponding speech envelope (z-scored) are available here(https://drive.google.com/drive/folders/11HDm6lznZfOf0DFdz8fj2uAIIqYmgjl-?usp=sharing).
+
+We welcome and encourage re-use of this dataset. If you use it in your work, please cite our paper accordingly.
+
 ## 📊 Figures Overview
 
 ### Figure 1: Psychometric Curves for Intelligibility
